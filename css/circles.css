@@ -1,0 +1,35 @@
+.circles{
+    padding: 16px 0 194px;
+    position: relative;
+    overflow: hidden;
+
+}
+.circles__container{
+    display: flex;
+    gap: 166px;
+}
+.circles__content{
+    margin: 134px 0 160px;
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    align-items: flex-start;
+}
+.circles__text{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    color: var(--primary-green);
+}
+.circles__link{
+    padding: 14.5px 39px;
+    border: 2px solid var(--primary-green);
+    color: currentColor;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 100px;
+}
+.circles > img{
+    position: absolute;
+    top: 0;
+}
