@@ -1,19 +1,8 @@
 # Cornelia Landing Page
 
 ![Preview](preview/preview.png)
-_Main screen (landing page preview)_
+_Main page preview_
 
-A responsive landing page based on a Figma design.
+A landing page based on a [Figma design](https://www.figma.com/file/INlJcA1yhOyNeavHqHPb7F/Cornelia?node-id=0%3A1&amp;t=f77MVhl1cT4zzXIn-0).
 
 Live demo: https://darkkurac.github.io/cornelia-landing/
-
-## Description
-This is a small educational frontend project.
-It reproduces a landing page layout from a Figma mockup.
-
-## Tech stack
-- HTML
-- CSS
-
-## Run locally
-Open `index.html` in a browser.
